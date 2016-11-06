@@ -1,0 +1,21 @@
+{
+  "name": "node_redirect_docker",
+  "version": "0.0.1",
+  "description": "An redirection container for cloud instances",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebinbenjamin/node_redirect_docker.git"
+  },
+  "author": "Sebin Benjamin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sebinbenjamin/node_redirect_docker/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0"
+  }
+}
