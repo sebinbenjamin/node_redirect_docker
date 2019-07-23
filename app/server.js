@@ -1,4 +1,4 @@
-var http = require('http'),fs = require('fs');
+var http = require('http');
 var URL = "http://www.google.com";
 
 var server = http.createServer(function(req, res) {

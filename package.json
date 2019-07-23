@@ -16,7 +16,6 @@
     "url": "https://github.com/sebinbenjamin/node_redirect_docker/issues"
   },
   "dependencies": {
-    "express": "~4.14.0",
-    "fs": "0.0.1-security"
+    "express": "^4.17.1"
   }
 }
